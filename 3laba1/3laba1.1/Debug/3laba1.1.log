@@ -1,0 +1,21 @@
+﻿  3laba1.1.cpp
+  Barman.cpp
+D:\my projects\3-rd term\3laba1\3laba1.1\Barman.cpp(48,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\my projects\3-rd term\3laba1\3laba1.1\Barman.cpp(51,59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Concierge.cpp
+D:\my projects\3-rd term\3laba1\3laba1.1\Concierge.cpp(27,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\my projects\3-rd term\3laba1\3laba1.1\Concierge.cpp(29,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\my projects\3-rd term\3laba1\3laba1.1\Concierge.cpp(122,52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Hotel.cpp
+D:\my projects\3-rd term\3laba1\3laba1.1\Hotel.cpp(56,24): warning C4018: '>': signed/unsigned mismatch
+D:\my projects\3-rd term\3laba1\3laba1.1\Hotel.cpp(161,29): warning C4018: '<': signed/unsigned mismatch
+D:\my projects\3-rd term\3laba1\3laba1.1\Hotel.cpp(165,29): warning C4018: '<': signed/unsigned mismatch
+  RoomsCRUD.cpp
+D:\my projects\3-rd term\3laba1\3laba1.1\RoomsCRUD.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+D:\my projects\3-rd term\3laba1\3laba1.1\RoomsCRUD.cpp(71,14): warning C4018: '>': signed/unsigned mismatch
+D:\my projects\3-rd term\3laba1\3laba1.1\RoomsCRUD.cpp(97,11): warning C4018: '<': signed/unsigned mismatch
+D:\my projects\3-rd term\3laba1\3laba1.1\RoomsCRUD.cpp(102,28): warning C4018: '>': signed/unsigned mismatch
+  RoomsOperator.cpp
+  BaseRooms.cpp
+  Generating Code...
+  3laba1.1.vcxproj -> D:\my projects\3-rd term\3laba1\Debug\3laba1.1.exe

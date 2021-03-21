@@ -1,0 +1,140 @@
+﻿  3laba4.cpp
+D:\my projects\3laba4\3laba4\iterator.h(25): warning C4661: 'Iterator<int>::Iterator(T *)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=int
+          ]
+D:\my projects\3laba4\3laba4\iterator.h(15): message : see declaration of 'Iterator<int>::Iterator'
+D:\my projects\3laba4\3laba4\iterator.h(25): warning C4661: 'Iterator<int> &Iterator<int>::operator =(const Iterator<int> &)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\iterator.h(18): message : see declaration of 'Iterator<int>::operator ='
+D:\my projects\3laba4\3laba4\iterator.h(25): warning C4661: 'Iterator<int> &Iterator<int>::operator ++(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\iterator.h(19): message : see declaration of 'Iterator<int>::operator ++'
+D:\my projects\3laba4\3laba4\iterator.h(25): warning C4661: 'Iterator<int> &Iterator<int>::operator --(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\iterator.h(20): message : see declaration of 'Iterator<int>::operator --'
+D:\my projects\3laba4\3laba4\iterator.h(25): warning C4661: 'T &Iterator<T>::operator *(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=int
+          ]
+D:\my projects\3laba4\3laba4\iterator.h(21): message : see declaration of 'Iterator<int>::operator *'
+D:\my projects\3laba4\3laba4\iterator.h(25): warning C4661: 'bool Iterator<int>::operator ==(const Iterator<int> &)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\iterator.h(22): message : see declaration of 'Iterator<int>::operator =='
+D:\my projects\3laba4\3laba4\iterator.h(25): warning C4661: 'bool Iterator<int>::operator !=(const Iterator<int> &)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\iterator.h(23): message : see declaration of 'Iterator<int>::operator !='
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'Array<int>::Array(int,int)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(17): message : see declaration of 'Array<int>::Array'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'Array<int>::Array(int)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(16): message : see declaration of 'Array<int>::Array'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'Array<int>::Array(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(15): message : see declaration of 'Array<int>::Array'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'T Array<T>::_getFirst(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=int
+          ]
+D:\my projects\3laba4\3laba4\dynamicms.h(18): message : see declaration of 'Array<int>::_getFirst'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'T Array<T>::_getLast(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=int
+          ]
+D:\my projects\3laba4\3laba4\dynamicms.h(19): message : see declaration of 'Array<int>::_getLast'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'bool Array<int>::_isEmpty(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(20): message : see declaration of 'Array<int>::_isEmpty'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'unsigned int Array<int>::_size(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(21): message : see declaration of 'Array<int>::_size'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'void Array<int>::_swap(int,int)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(22): message : see declaration of 'Array<int>::_swap'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'void Array<int>::_pushBack(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=int
+          ]
+D:\my projects\3laba4\3laba4\dynamicms.h(23): message : see declaration of 'Array<int>::_pushBack'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'void Array<int>::_popBack(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(24): message : see declaration of 'Array<int>::_popBack'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'void Array<int>::_deleteAll(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(25): message : see declaration of 'Array<int>::_deleteAll'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'void Array<int>::_addCapacity(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(26): message : see declaration of 'Array<int>::_addCapacity'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'void Array<int>::_checkCapacity(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(27): message : see declaration of 'Array<int>::_checkCapacity'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'void Array<int>::_show(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(28): message : see declaration of 'Array<int>::_show'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'Array<int>::~Array(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(31): message : see declaration of 'Array<int>::~Array'
+  dynamicms.cpp
+D:\my projects\3laba4\3laba4\iterator.h(25): warning C4661: 'Iterator<int>::Iterator(T *)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=int
+          ]
+D:\my projects\3laba4\3laba4\iterator.h(15): message : see declaration of 'Iterator<int>::Iterator'
+D:\my projects\3laba4\3laba4\iterator.h(25): warning C4661: 'Iterator<int> &Iterator<int>::operator =(const Iterator<int> &)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\iterator.h(18): message : see declaration of 'Iterator<int>::operator ='
+D:\my projects\3laba4\3laba4\iterator.h(25): warning C4661: 'Iterator<int> &Iterator<int>::operator ++(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\iterator.h(19): message : see declaration of 'Iterator<int>::operator ++'
+D:\my projects\3laba4\3laba4\iterator.h(25): warning C4661: 'Iterator<int> &Iterator<int>::operator --(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\iterator.h(20): message : see declaration of 'Iterator<int>::operator --'
+D:\my projects\3laba4\3laba4\iterator.h(25): warning C4661: 'T &Iterator<T>::operator *(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=int
+          ]
+D:\my projects\3laba4\3laba4\iterator.h(21): message : see declaration of 'Iterator<int>::operator *'
+D:\my projects\3laba4\3laba4\iterator.h(25): warning C4661: 'bool Iterator<int>::operator ==(const Iterator<int> &)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\iterator.h(22): message : see declaration of 'Iterator<int>::operator =='
+D:\my projects\3laba4\3laba4\iterator.h(25): warning C4661: 'bool Iterator<int>::operator !=(const Iterator<int> &)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\iterator.h(23): message : see declaration of 'Iterator<int>::operator !='
+D:\my projects\3laba4\3laba4\dynamicms.cpp(150,27): warning C4018: '<': signed/unsigned mismatch
+D:\my projects\3laba4\3laba4\dynamicms.cpp(145): message : while compiling class template member function 'void Array<int>::_addCapacity(void)'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): message : see reference to class template instantiation 'Array<int>' being compiled
+D:\my projects\3laba4\3laba4\dynamicms.cpp(131,19): warning C4018: '<': signed/unsigned mismatch
+D:\my projects\3laba4\3laba4\dynamicms.cpp(129): message : while compiling class template member function 'void Array<int>::_show(void)'
+  iterator.cpp
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'Array<int>::Array(int,int)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(17): message : see declaration of 'Array<int>::Array'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'Array<int>::Array(int)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(16): message : see declaration of 'Array<int>::Array'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'Array<int>::Array(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(15): message : see declaration of 'Array<int>::Array'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'T Array<T>::_getFirst(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=int
+          ]
+D:\my projects\3laba4\3laba4\dynamicms.h(18): message : see declaration of 'Array<int>::_getFirst'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'T Array<T>::_getLast(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=int
+          ]
+D:\my projects\3laba4\3laba4\dynamicms.h(19): message : see declaration of 'Array<int>::_getLast'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'bool Array<int>::_isEmpty(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(20): message : see declaration of 'Array<int>::_isEmpty'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'unsigned int Array<int>::_size(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(21): message : see declaration of 'Array<int>::_size'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'void Array<int>::_swap(int,int)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(22): message : see declaration of 'Array<int>::_swap'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'void Array<int>::_pushBack(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=int
+          ]
+D:\my projects\3laba4\3laba4\dynamicms.h(23): message : see declaration of 'Array<int>::_pushBack'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'void Array<int>::_popBack(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(24): message : see declaration of 'Array<int>::_popBack'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'void Array<int>::_deleteAll(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(25): message : see declaration of 'Array<int>::_deleteAll'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'void Array<int>::_addCapacity(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(26): message : see declaration of 'Array<int>::_addCapacity'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'void Array<int>::_checkCapacity(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(27): message : see declaration of 'Array<int>::_checkCapacity'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'void Array<int>::_show(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(28): message : see declaration of 'Array<int>::_show'
+D:\my projects\3laba4\3laba4\dynamicms.h(34): warning C4661: 'Array<int>::~Array(void)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba4\3laba4\dynamicms.h(31): message : see declaration of 'Array<int>::~Array'
+  Generating Code...
+D:\my projects\3laba4\3laba4\dynamicms.cpp(74): warning C4715: 'Array<int>::_getLast': not all control paths return a value
+D:\my projects\3laba4\3laba4\dynamicms.cpp(67): warning C4715: 'Array<int>::_getFirst': not all control paths return a value
+  3laba4.vcxproj -> D:\my projects\3laba4\Debug\3laba4.exe

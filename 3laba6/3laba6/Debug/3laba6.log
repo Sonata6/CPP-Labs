@@ -1,0 +1,13 @@
+﻿  3laba6.cpp
+D:\my projects\3laba6\3laba6\3laba6.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\my projects\3laba6\3laba6\NullReferenceException.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\my projects\3laba6\3laba6\3laba6.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\my projects\3laba6\3laba6\DividedByZeroException.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\my projects\3laba6\3laba6\3laba6.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\my projects\3laba6\3laba6\InputIntException.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\my projects\3laba6\3laba6\3laba6.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\my projects\3laba6\3laba6\IndexOutOfRangeException.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\my projects\3laba6\3laba6\3laba6.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\my projects\3laba6\3laba6\InputAgeException.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\my projects\3laba6\3laba6\3laba6.cpp(66,16): warning C4834: discarding return value of function with 'nodiscard' attribute
+  3laba6.vcxproj -> D:\my projects\3laba6\Debug\3laba6.exe

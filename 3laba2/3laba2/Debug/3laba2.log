@@ -1,0 +1,71 @@
+﻿  3laba2.cpp
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(19): warning C4661: 'void PersonalFileIO<Barman>::save(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Barman
+          ]
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(14): message : see declaration of 'PersonalFileIO<Barman>::save'
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(19): warning C4661: 'void PersonalFileIO<Barman>::load(const std::string &)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(15): message : see declaration of 'PersonalFileIO<Barman>::load'
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(20): warning C4661: 'void PersonalFileIO<Concierge>::save(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Concierge
+          ]
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(14): message : see declaration of 'PersonalFileIO<Concierge>::save'
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(20): warning C4661: 'void PersonalFileIO<Concierge>::load(const std::string &)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(15): message : see declaration of 'PersonalFileIO<Concierge>::load'
+  Barman.cpp
+D:\my projects\3laba2\3laba2\Barman.cpp(48,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\my projects\3laba2\3laba2\Barman.cpp(51,59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  BaseRooms.cpp
+  Concierge.cpp
+D:\my projects\3laba2\3laba2\Concierge.cpp(27,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\my projects\3laba2\3laba2\Concierge.cpp(29,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\my projects\3laba2\3laba2\Concierge.cpp(122,52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Hotel.cpp
+D:\my projects\3laba2\3laba2\Hotel.cpp(57,23): warning C4018: '>': signed/unsigned mismatch
+D:\my projects\3laba2\3laba2\Hotel.cpp(162,28): warning C4018: '<': signed/unsigned mismatch
+D:\my projects\3laba2\3laba2\Hotel.cpp(166,28): warning C4018: '<': signed/unsigned mismatch
+D:\my projects\3laba2\3laba2\Hotel.cpp(199,27): warning C4101: 'p': unreferenced local variable
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(19): warning C4661: 'void PersonalFileIO<Barman>::save(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Barman
+          ]
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(14): message : see declaration of 'PersonalFileIO<Barman>::save'
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(19): warning C4661: 'void PersonalFileIO<Barman>::load(const std::string &)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(15): message : see declaration of 'PersonalFileIO<Barman>::load'
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(20): warning C4661: 'void PersonalFileIO<Concierge>::save(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Concierge
+          ]
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(14): message : see declaration of 'PersonalFileIO<Concierge>::save'
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(20): warning C4661: 'void PersonalFileIO<Concierge>::load(const std::string &)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(15): message : see declaration of 'PersonalFileIO<Concierge>::load'
+  PersonalFileIO.cpp
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(19): warning C4661: 'void PersonalFileIO<Barman>::save(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Barman
+          ]
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(14): message : see declaration of 'PersonalFileIO<Barman>::save'
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(19): warning C4661: 'void PersonalFileIO<Barman>::load(const std::string &)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(15): message : see declaration of 'PersonalFileIO<Barman>::load'
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(20): warning C4661: 'void PersonalFileIO<Concierge>::save(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Concierge
+          ]
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(14): message : see declaration of 'PersonalFileIO<Concierge>::save'
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(20): warning C4661: 'void PersonalFileIO<Concierge>::load(const std::string &)': no suitable definition provided for explicit template instantiation request
+D:\my projects\3laba2\3laba2\PersonalFileIO.h(15): message : see declaration of 'PersonalFileIO<Concierge>::load'
+  RoomsCRUD.cpp
+D:\my projects\3laba2\3laba2\RoomsCRUD.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+D:\my projects\3laba2\3laba2\RoomsCRUD.cpp(71,14): warning C4018: '>': signed/unsigned mismatch
+D:\my projects\3laba2\3laba2\RoomsCRUD.cpp(97,16): warning C4018: '<': signed/unsigned mismatch
+D:\my projects\3laba2\3laba2\RoomsCRUD.cpp(102,28): warning C4018: '>': signed/unsigned mismatch
+  RoomsOperator.cpp
+  Generating Code...
+  3laba2.vcxproj -> D:\my projects\3laba2\Debug\3laba2.exe
